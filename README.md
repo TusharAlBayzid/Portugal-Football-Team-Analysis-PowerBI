@@ -31,6 +31,14 @@ This project presents a highly interactive and insightful data analysis dashboar
 * **DAX (Data Analysis Expressions):** Customized measures for precise performance metrics.
 
 ---
+## 👨‍💻 Author
+
+**Bayzid Mostak**<br>
+*Data Analyst & Visualization Expert*
+
+*   [LinkedIn] https://www.linkedin.com/in/bayzid-mostak-data-analyst/
+*   [GitHub] https://github.com/TusharAlBayzid
+
 
 ## 📂 Repository Structure
 
